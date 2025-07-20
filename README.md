@@ -24,11 +24,17 @@
 
 ## ✨ Example Pages
 
-* `DonorForm.js` - To add donors.
+* `DonorForm.js` - Form to add donors.
 <img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/0ba9188f-bb2b-4ee0-9b4d-7bcdc1099bfc" />
-* `donor.html` – Form to add donations
-* `ngo.html` – View NGOs
-* `admin.html` – Admin panel (optional)
+* `DonorList.js1 - Page to display the donor list with search, edit and delete features.
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/11e01941-26bc-4bea-ba39-e61741c61b11" />
+* `DonationForm.js` – Form to add the donations.
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/05938f81-cd04-4ee6-a21b-d1c93ba9d4cb" />
+* `DonationList.js` - Page to display the donation list with filtes like search by name, min amount, max amount, date and exporting the list as a csv file.
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/f16f78aa-0ace-4491-9990-db7f8575032e" />
+* `AnalyticsDashboard.js` - Here I displayed the total donations, total donors, top donors and Monthly donations.
+<img width="870" height="903" alt="image" src="https://github.com/user-attachments/assets/c5e27744-19f8-4b65-9f9c-80f6f3f0375e" />
+
 
 ## ⚙️ Getting Started
 
