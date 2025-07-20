@@ -5,13 +5,18 @@
 > 📌 Built using **Oracle Database**, **Node.js**, **Express.js**, and basic **REACT & CSS**.
 
 
-## 🚀 Features
+## 🔑 Key Features
+📥 Add & Manage Donors – Create, edit, delete, and search donors.
 
-- 🧾 NGO Registration & Login
-- 💸 Donation Entry and Tracking
-- 📋 View All Registered NGOs
-- 📊 NGO Dashboard Overview
-- 🔐 Secure Backend Integration with Oracle
+💸 Track Donations – Record donations with filters for amount, date, and donor.
+
+📊 Analytics Dashboard – Visualize total donations, top donors, and trends.
+
+🧾 Receipt Generation – Export donation records as PDFs or CSVs.
+
+🔍 Search & Filter – Real-time filtering on donor and donation lists.
+
+✏️ Editable Entries – Inline editing and deletion with confirmation dialogs.
 
 
 ## 🛠️ Tech Stack
