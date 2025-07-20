@@ -22,17 +22,13 @@
 | **Backend**   | Node.js, Express.js      |
 | **Database**  | Oracle SQL               |
 
+## ✨ Example Pages
 
-## 📂 Folder Structure
-
-
-Charitron/
-├── db.js                # Oracle DB connection configuration
-├── server.js            # Main server file
-├── routes/              # API route handlers
-├── public/              # HTML/CSS files (Frontend)
-├── views/               # Optional: Templating (if any)
-└── README.md            # Project documentation
+* `DonorForm.js` - To add donors.
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/0ba9188f-bb2b-4ee0-9b4d-7bcdc1099bfc" />
+* `donor.html` – Form to add donations
+* `ngo.html` – View NGOs
+* `admin.html` – Admin panel (optional)
 
 ## ⚙️ Getting Started
 
@@ -71,13 +67,6 @@ node server.js
 
 Open your browser and visit:
 👉 `http://localhost:5000`
-
-## ✨ Example Pages
-
-* `home.html` – Welcome page
-* `donor.html` – Form to add donations
-* `ngo.html` – View NGOs
-* `admin.html` – Admin panel (optional)
 
 ## 🎯 Use Cases
 
